@@ -1,0 +1,148 @@
+```json
+{
+  "ranked_feedback": [
+    {
+      "user_name": "Ken Wallace Nugget One",
+      "source": "Product Hunt",
+      "content": "When I saw Beamer on AppSumo a while back, it was an insta-purchase. One of those no brainer, shut-up-and-take-my-money products that solved a real need inside my app. It‘s such a great way to keep customers informed inside your app and offers easy ways to collect feedback with voting and comments — without the huge feature bloat of something like a Drift or Intercom.",
+      "relevance_score": 0.95,
+      "specificity_score": 0.8,
+      "actionability_score": 0.7,
+      "recurrence_score": 0.6,
+      "impact_score": 0.9,
+      "category": "Positive Feedback; Feature Request (Comparison with competitors)"
+    },
+    {
+      "user_name": "André Hess Brenes",
+      "source": "Product Hunt",
+      "content": "Beamer is really solving my need of communicating my new features to my customers. Previously I've relied on e-mails which not only have a low open rate but take me too much time to design and send. With Beamer I'm saving tons of time on this and putting those new features right on my customers's noses which is great for my to show my SAAS customers our progression.",
+      "relevance_score": 0.9,
+      "specificity_score": 0.7,
+      "actionability_score": 0.8,
+      "recurrence_score": 0.5,
+      "impact_score": 0.8,
+      "category": "Positive Feedback; Time-saving; Feature Highlight"
+    },
+    {
+      "user_name": "Patrick Healy",
+      "source": "Product Hunt",
+      "content": "I really like these guys and they provide a simple easy service that just about every site where users log in needs - but doesn't want to build because they want to stay focused on their core business. There are alternatives and some of them are cheaper but I got this on AppSumo as a lifetime deal so how could I pass this up. We use it for our SaaS platform and it makes it a lot easier to get updates out there and drive users where you want for them to get more info. I find this works really well with SupportHero. The tandem of the two gets us almost all of what we need in terms of simple push communication and documentation.",
+      "relevance_score": 0.85,
+      "specificity_score": 0.6,
+      "actionability_score": 0.7,
+      "recurrence_score": 0.7,
+      "impact_score": 0.8,
+      "category": "Positive Feedback; Pricing; Integration Suggestion"
+    },
+    {
+      "user_name": "Shade Odeinde",
+      "source": "Product Hunt",
+      "content": "It was love at first sight when I saw Beamer! Beameris quite simply an elegant way to get updates (and any message really!) across to your user-base without becoming annoying!",
+      "relevance_score": 0.8,
+      "specificity_score": 0.5,
+      "actionability_score": 0.6,
+      "recurrence_score": 0.4,
+      "impact_score": 0.7,
+      "category": "Positive Feedback; User Experience"
+    },
+    {
+      "user_name": "Lisa Zigel",
+      "source": "Product Hunt",
+      "content": "Installed it just under a month ago, working brilliantly. Great way for site visitors to see new features, blog posts, etc., and the CTR is really high. I love it.",
+      "relevance_score": 0.75,
+      "specificity_score": 0.6,
+      "actionability_score": 0.5,
+      "recurrence_score": 0.3,
+      "impact_score": 0.7,
+      "category": "Positive Feedback; User Experience; CTR"
+    },
+    {
+      "user_name": "Vojkan Cvijanovic",
+      "source": "Product Hunt",
+      "content": "Easy, clean, simple way to present your newsfeed to your site visitors and show them that site is active and that something is going on. A big plus is a WordPress plugin.",
+      "relevance_score": 0.75,
+      "specificity_score": 0.6,
+      "actionability_score": 0.6,
+      "recurrence_score": 0.4,
+      "impact_score": 0.7,
+      "category": "Positive Feedback; Ease of use; Feature Highlight (WordPress Plugin)"
+    },
+    {
+      "user_name": "Roland Deveraux",
+      "source": "Product Hunt",
+      "content": "I've been using Beamer for several projects, some personal and some for customers. It's been great so far - they regularly push new features and their support chat is really responsive. Overall great experience and worth the money.",
+      "relevance_score": 0.7,
+      "specificity_score": 0.5,
+      "actionability_score": 0.6,
+      "recurrence_score": 0.5,
+      "impact_score": 0.6,
+      "category": "Positive Feedback; Customer Support; Feature Updates"
+    },
+    {
+      "user_name": "Catherine R. Dove",
+      "source": "Product Hunt",
+      "content": "GetBeamer is a great way to notify people about changes to my site. I love the new feature of web push notifications. GetBeamer continues to add new features. Their customer support is SO responsive!",
+      "relevance_score": 0.7,
+      "specificity_score": 0.5,
+      "actionability_score": 0.6,
+      "recurrence_score": 0.4,
+      "impact_score": 0.6,
+      "category": "Positive Feedback; Feature Highlight (Web Push Notifications); Customer Support"
+    },
+    {
+      "user_name": "Daniel Doherty",
+      "source": "Product Hunt",
+      "content": "An amazing product. One of the best purchases I have ever made.",
+      "relevance_score": 0.65,
+      "specificity_score": 0.2,
+      "actionability_score": 0.3,
+      "recurrence_score": 0.2,
+      "impact_score": 0.7,
+      "category": "Positive Feedback"
+    },
+    {
+      "user_name": "Ghost Kitty",
+      "source": "Product Hunt",
+      "content": "Great changelog service",
+      "relevance_score": 0.6,
+      "specificity_score": 0.4,
+      "actionability_score": 0.4,
+      "recurrence_score": 0.3,
+      "impact_score": 0.5,
+      "category": "Positive Feedback"
+    },
+    {
+      "user_name": "MA MAJDI ALAMRI",
+      "source": "Trustpilot",
+      "content": "Not working The App only works for three weeks after i bought it . I have contacted them several times with no response...",
+      "relevance_score": 0.5,
+      "specificity_score": 0.7,
+      "actionability_score": 0.9,
+      "recurrence_score": 0.8,
+      "impact_score": 0.7,
+      "category": "Negative Feedback; Bug Report; Customer Support Issue"
+    },
+    {
+      "user_name": "Alexander Leo-Hansen",
+      "source": "Trustpilot",
+      "content": "The App only works half of the times The App only works half of the times. I have contacted them several times with no response....",
+      "relevance_score": 0.5,
+      "specificity_score": 0.7,
+      "actionability_score": 0.9,
+      "recurrence_score": 0.8,
+      "impact_score": 0.7,
+      "category": "Negative Feedback; Bug Report; Customer Support Issue"
+    }
+  ],
+  "platform_ranking": [
+    {
+      "platform": "Product Hunt",
+      "average_quality": 0.78
+    },
+    {
+      "platform": "Trustpilot",
+      "average_quality": 0.5
+    }
+  ]
+}
+```
