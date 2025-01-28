@@ -1,0 +1,32 @@
+scrape_task:
+  description: >
+    Collecter des avis et retours clients sur {company} depuis les sources en ligne spécifiées
+    en utilisant SerperDev pour la recherche et ScrapeWebsite pour l'extraction.
+  expected_output: >
+    Un fichier JSON contenant une liste structurée de retours avec:
+    - source_url: URL de la source
+    - platform: Nom de la plateforme
+    - user_name: Nom/identifiant de l'utilisateur
+    - date: Date de publication
+    - rating: Note si disponible
+    - content: Texte complet du retour
+  agent: web_scraper
+
+analyze_task:
+  description: >
+    Analyser les retours collectés selon les critères définis et produire un rapport détaillé.
+  expected_output: >
+    Un rapport JSON contenant:
+    - ranked_feedback: Liste des retours triés par score de pertinence
+      - user_name: Nom de l'utilisateur
+      - source: Plateforme source
+      - content: Contenu du retour
+      - relevance_score: Score global de pertinence
+      - specificity_score: Note de spécificité
+      - actionability_score: Note d'actionabilité
+      - recurrence_score: Note de récurrence
+      - impact_score: Note d'impact
+      - category: Catégorie du retour
+    - platform_ranking: Classement des plateformes par qualité moyenne des retours
+  agent: feedback_analyst
+  context: [scrape_task]
